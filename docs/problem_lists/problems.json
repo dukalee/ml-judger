@@ -13,5 +13,10 @@
     "id": "banknote_forgery",
     "type": "classification",
     "targetColumn": "is_forged"
+  },
+  {
+    "id": "wine_variety",
+    "type": "classification",
+    "targetColumn": "variety"
   }
 ]
