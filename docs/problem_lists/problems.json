@@ -18,5 +18,10 @@
     "id": "wine_variety",
     "type": "classification",
     "targetColumn": "variety"
+  },
+  {
+    "id": "startups",
+    "type": "regression",
+    "targetColumn": "Profit"
   }
 ]
