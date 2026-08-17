@@ -1,0 +1,17 @@
+[
+  {
+    "id": "product_review",
+    "type": "classification",
+    "targetColumn": "sentiment"
+  },
+  {
+    "id": "student_performance",
+    "type": "regression",
+    "targetColumn": "Performance Index"
+  },
+    {
+    "id": "banknote_forgery",
+    "type": "classification",
+    "targetColumn": "is_forged"
+  }
+]
