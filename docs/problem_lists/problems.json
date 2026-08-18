@@ -23,5 +23,10 @@
     "id": "startups",
     "type": "regression",
     "targetColumn": "Profit"
+  },
+  {
+    "id": "animals",
+    "type": "classification",
+    "targetColumn": "animal_class"
   }
 ]
