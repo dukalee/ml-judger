@@ -33,5 +33,10 @@
     "id": "employee_attrition",
     "type": "classification",
     "targetColumn": "attrition"
+  },
+  {
+    "id": "mushroom",
+    "type": "classification",
+    "targetColumn": "class"
   }
 ]
