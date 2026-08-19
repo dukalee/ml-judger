@@ -28,5 +28,10 @@
     "id": "animals",
     "type": "classification",
     "targetColumn": "animal_class"
+  },
+  {
+    "id": "employee_attrition",
+    "type": "classification",
+    "targetColumn": "attrition"
   }
 ]
